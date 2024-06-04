@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">APPPLANT</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Lista de Plantas</string>
+    <string name="second_fragment_label">detail</string>
+    <string name="NombreRv">Name:  %1$s </string>
+    <string name="TipoRv">Type:  %1$s  </string>
+    <string name="NombreDetalles">Name:  %1$s  </string>
+    <string name="TipoDetalles">Type:  %1$s  </string>
+    <string name="DescripcionDetalles">Description: \n\n %1$s </string>
+
+
+</resources>
